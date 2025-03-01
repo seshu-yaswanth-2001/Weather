@@ -127,4 +127,7 @@ body {
     height: 50px; */
     border-radius: 30px;
   }
+  .search input {
+    width: 200px;
+  }
 }
