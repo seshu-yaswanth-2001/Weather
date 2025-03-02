@@ -39,18 +39,31 @@ You can obtain an API key by signing up at OpenWeatherMap.
 📂 Project Structure
 
 weather-app/
+
 │── CSS/
+
 │   └── index.css
+
 │── JS/
+
 │   └── index.js
+
 │── images/
+
 │   ├── clouds.png
+
 │   ├── clear.png
+
 │   ├── drizzle.png
+
 │   ├── rain.png
+
 │   ├── snow.png
+
 │   ├── mist.png
+
 │── index.html
+
 │── README.md
 
 📜 License
