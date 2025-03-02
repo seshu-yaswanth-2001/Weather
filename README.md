@@ -32,7 +32,7 @@ git clone https://github.com/seshu-yaswanth-2001/Weather.git
 
 This app uses the OpenWeatherMap API. Replace the apiKey in index.js with your own key:
 
-const apiKey = "YOUR_API_KEY";
+const apiKey = "###YOUR_API_KEY###";
 
 You can obtain an API key by signing up at OpenWeatherMap.
 
